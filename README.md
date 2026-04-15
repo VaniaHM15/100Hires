@@ -1,11 +1,11 @@
 # Setup Process Documentation
 
 ## Overview
-This repository documents the setup process using Cursor IDE and related tools.
+This repository documents the setup of a development environment using Cursor IDE, including the tools installed, steps completed, and challenges encountered during the process.
 
 ## Tools Installed
 - Cursor IDE
-- Claude Code (attempted)
+- Claude Code (not installed due to paid requirement)
 - Codex
 - GitHub
 
