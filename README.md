@@ -6,7 +6,7 @@ This repository documents the setup process using Cursor IDE and related tools.
 ## Tools Installed
 - Cursor IDE
 - Claude Code (attempted)
-- Codex (if available)
+- Codex
 - GitHub
 
 ## Steps Completed
