@@ -21,4 +21,4 @@ This repository documents the setup process using Cursor IDE and related tools.
 **Solution:** Skipped this step and continued with available tools.
 
 ## Final Result
-A repository with documented setup steps and resolved issues.++
+A repository with documented setup steps and resolved issues.
